@@ -16,6 +16,7 @@ IMAGE_INSTALL_append = " \
     aos-certificates \
     vis-service \
     cluster-view \
+    v4l2loopback-mod \
 "
 
 IMAGE_INSTALL_remove = " \
